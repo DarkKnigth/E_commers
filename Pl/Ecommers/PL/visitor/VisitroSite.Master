@@ -1,0 +1,79 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="VisitroSite.master.cs" Inherits="Ecommers.PL.visitor.VisitroSite" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="../css/StyleSheet1.css" rel="stylesheet" />
+    <title></title>
+    
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        text-align:center;
+            }
+
+
+    </style>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="head_logo">
+
+            <asp:Image ID="Image1" runat="server" Height="25%" ImageUrl="~/image/logo.png" Width="100%" />
+
+        </div>
+     
+        <div id="head_user">Welcome Visitor</div>
+        <div id="head_control_pannel">
+            <table  class="auto-style1">
+                <tr>
+                    <td>
+                        <asp:Image ID="Image2" runat="server" ImageUrl="~/image/home.png" Height="65px" style="text-align: center" />
+                    </td>
+                    <td>
+                        <asp:Image ID="Image3" runat="server" ImageUrl="~/image/signin.png" Height="65px" />
+                    </td>
+                    <td>
+                        <asp:Image ID="Image4" runat="server" ImageUrl="~/image/signup.png" Height="65px" />
+                    </td>
+                    <td>
+                        <asp:Image ID="Image5" runat="server" ImageUrl="~/image/contact.png" Height="65px" />
+                    </td>
+                    <td>
+                        <asp:Image ID="Image6" runat="server" ImageUrl="~/image/about.png" Height="65px" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:HyperLink ID="Home" runat="server" NavigateUrl="~/visitor/default.aspx">Home</asp:HyperLink>
+                    </td>
+                    <td>
+                        <asp:HyperLink ID="Home0" runat="server" NavigateUrl="~/visitor/Signin.aspx">Signin</asp:HyperLink>
+                    </td>
+                    <td>
+                        <asp:HyperLink ID="Home1" runat="server" NavigateUrl="~/visitor/Siginup.aspx">Signup</asp:HyperLink>
+                    </td>
+                    <td>
+                        <asp:HyperLink ID="Home2" runat="server" NavigateUrl="~/visitor/Contact.aspx">Contact</asp:HyperLink>
+                    </td>
+                    <td>
+                        <asp:HyperLink ID="Home3" runat="server" NavigateUrl="~/visitor/AboutAs.aspx">AboutAs</asp:HyperLink>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="body">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+            </div>
+        <div id="fotter">
+          <center>  <asp:Label ID="lblTime" runat="server"></asp:Label></center>
+        </div>
+
+   
+    </form>
+</body>
+</html>

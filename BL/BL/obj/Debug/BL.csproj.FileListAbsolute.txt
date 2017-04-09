@@ -1,0 +1,81 @@
+C:\Users\arart\Documents\Visual Studio 2013\Projects\Ecommerss\BL\BL\bin\Debug\BL.dll
+C:\Users\arart\Documents\Visual Studio 2013\Projects\Ecommerss\BL\BL\bin\Debug\BL.pdb
+C:\Users\arart\Documents\Visual Studio 2013\Projects\Ecommerss\BL\BL\bin\Debug\DL.dll
+C:\Users\arart\Documents\Visual Studio 2013\Projects\Ecommerss\BL\BL\bin\Debug\Entity.dll
+C:\Users\arart\Documents\Visual Studio 2013\Projects\Ecommerss\BL\BL\bin\Debug\DL.pdb
+C:\Users\arart\Documents\Visual Studio 2013\Projects\Ecommerss\BL\BL\bin\Debug\Entity.pdb
+C:\Users\arart\Documents\Visual Studio 2013\Projects\Ecommerss\BL\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\arart\Documents\Visual Studio 2013\Projects\Ecommerss\BL\BL\obj\Debug\BL.dll
+C:\Users\arart\Documents\Visual Studio 2013\Projects\Ecommerss\BL\BL\obj\Debug\BL.pdb
+D:\Ecommerss\BL\BL\bin\Debug\BL.dll
+D:\Ecommerss\BL\BL\bin\Debug\BL.pdb
+D:\Ecommerss\BL\BL\bin\Debug\DL.dll
+D:\Ecommerss\BL\BL\bin\Debug\Entity.dll
+D:\Ecommerss\BL\BL\bin\Debug\DL.pdb
+D:\Ecommerss\BL\BL\bin\Debug\Entity.pdb
+D:\Ecommerss\BL\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Ecommerss\BL\BL\obj\Debug\BL.dll
+D:\Ecommerss\BL\BL\obj\Debug\BL.pdb
+C:\Users\arart\Desktop\Ecommerss\BL\BL\bin\Debug\BL.dll
+C:\Users\arart\Desktop\Ecommerss\BL\BL\bin\Debug\BL.pdb
+C:\Users\arart\Desktop\Ecommerss\BL\BL\bin\Debug\DL.dll
+C:\Users\arart\Desktop\Ecommerss\BL\BL\bin\Debug\Entity.dll
+C:\Users\arart\Desktop\Ecommerss\BL\BL\bin\Debug\DL.pdb
+C:\Users\arart\Desktop\Ecommerss\BL\BL\bin\Debug\Entity.pdb
+C:\Users\arart\Desktop\Ecommerss\BL\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\arart\Desktop\Ecommerss\BL\BL\obj\Debug\BL.dll
+C:\Users\arart\Desktop\Ecommerss\BL\BL\obj\Debug\BL.pdb
+C:\Users\arart\Desktop\mem\Ecommerss\BL\BL\bin\Debug\BL.dll
+C:\Users\arart\Desktop\mem\Ecommerss\BL\BL\bin\Debug\BL.pdb
+C:\Users\arart\Desktop\mem\Ecommerss\BL\BL\bin\Debug\DL.dll
+C:\Users\arart\Desktop\mem\Ecommerss\BL\BL\bin\Debug\Entity.dll
+C:\Users\arart\Desktop\mem\Ecommerss\BL\BL\bin\Debug\DL.pdb
+C:\Users\arart\Desktop\mem\Ecommerss\BL\BL\bin\Debug\Entity.pdb
+C:\Users\arart\Desktop\mem\Ecommerss\BL\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\arart\Desktop\mem\Ecommerss\BL\BL\obj\Debug\BL.dll
+C:\Users\arart\Desktop\mem\Ecommerss\BL\BL\obj\Debug\BL.pdb
+C:\Users\Admin\Desktop\Ecommerss\BL\BL\bin\Debug\BL.dll
+C:\Users\Admin\Desktop\Ecommerss\BL\BL\bin\Debug\BL.pdb
+C:\Users\Admin\Desktop\Ecommerss\BL\BL\bin\Debug\DL.dll
+C:\Users\Admin\Desktop\Ecommerss\BL\BL\bin\Debug\Entity.dll
+C:\Users\Admin\Desktop\Ecommerss\BL\BL\bin\Debug\DL.pdb
+C:\Users\Admin\Desktop\Ecommerss\BL\BL\bin\Debug\Entity.pdb
+C:\Users\Admin\Desktop\Ecommerss\BL\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Ecommerss\BL\BL\obj\Debug\BL.dll
+C:\Users\Admin\Desktop\Ecommerss\BL\BL\obj\Debug\BL.pdb
+C:\Users\Admin\Desktop\Ecommers\BL\BL\bin\Debug\BL.dll
+C:\Users\Admin\Desktop\Ecommers\BL\BL\bin\Debug\BL.pdb
+C:\Users\Admin\Desktop\Ecommers\BL\BL\bin\Debug\DL.dll
+C:\Users\Admin\Desktop\Ecommers\BL\BL\bin\Debug\Entity.dll
+C:\Users\Admin\Desktop\Ecommers\BL\BL\bin\Debug\DL.pdb
+C:\Users\Admin\Desktop\Ecommers\BL\BL\bin\Debug\Entity.pdb
+C:\Users\Admin\Desktop\Ecommers\BL\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Ecommers\BL\BL\obj\Debug\BL.dll
+C:\Users\Admin\Desktop\Ecommers\BL\BL\obj\Debug\BL.pdb
+C:\Users\Admin\Desktop\New folder\Ecommers\BL\BL\bin\Debug\BL.dll
+C:\Users\Admin\Desktop\New folder\Ecommers\BL\BL\bin\Debug\BL.pdb
+C:\Users\Admin\Desktop\New folder\Ecommers\BL\BL\bin\Debug\DL.dll
+C:\Users\Admin\Desktop\New folder\Ecommers\BL\BL\bin\Debug\Entity.dll
+C:\Users\Admin\Desktop\New folder\Ecommers\BL\BL\bin\Debug\DL.pdb
+C:\Users\Admin\Desktop\New folder\Ecommers\BL\BL\bin\Debug\Entity.pdb
+C:\Users\Admin\Desktop\New folder\Ecommers\BL\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\Ecommers\BL\BL\obj\Debug\BL.dll
+C:\Users\Admin\Desktop\New folder\Ecommers\BL\BL\obj\Debug\BL.pdb
+C:\Users\arart\Desktop\Ecommers\BL\BL\bin\Debug\BL.dll
+C:\Users\arart\Desktop\Ecommers\BL\BL\bin\Debug\BL.pdb
+C:\Users\arart\Desktop\Ecommers\BL\BL\bin\Debug\DL.dll
+C:\Users\arart\Desktop\Ecommers\BL\BL\bin\Debug\Entity.dll
+C:\Users\arart\Desktop\Ecommers\BL\BL\bin\Debug\DL.pdb
+C:\Users\arart\Desktop\Ecommers\BL\BL\bin\Debug\Entity.pdb
+C:\Users\arart\Desktop\Ecommers\BL\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\arart\Desktop\Ecommers\BL\BL\obj\Debug\BL.dll
+C:\Users\arart\Desktop\Ecommers\BL\BL\obj\Debug\BL.pdb
+C:\Users\Admin\Desktop\Ecommers\Ecommers\BL\BL\bin\Debug\BL.dll
+C:\Users\Admin\Desktop\Ecommers\Ecommers\BL\BL\bin\Debug\BL.pdb
+C:\Users\Admin\Desktop\Ecommers\Ecommers\BL\BL\bin\Debug\DL.dll
+C:\Users\Admin\Desktop\Ecommers\Ecommers\BL\BL\bin\Debug\Entity.dll
+C:\Users\Admin\Desktop\Ecommers\Ecommers\BL\BL\bin\Debug\DL.pdb
+C:\Users\Admin\Desktop\Ecommers\Ecommers\BL\BL\bin\Debug\Entity.pdb
+C:\Users\Admin\Desktop\Ecommers\Ecommers\BL\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Ecommers\Ecommers\BL\BL\obj\Debug\BL.dll
+C:\Users\Admin\Desktop\Ecommers\Ecommers\BL\BL\obj\Debug\BL.pdb

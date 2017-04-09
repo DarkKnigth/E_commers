@@ -1,0 +1,95 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CustomerSite.master.cs" Inherits="Ecommers.PL.customer.CustomerSite" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    
+        <link href="../css/StyleSheet1.css" rel="stylesheet" />
+    
+    <style type="text/css">
+        .auto-style2 {
+            width: 99%;
+        }
+    </style>
+
+    <script  type="text/javascript">
+
+    function onlyNumbers(event) {
+        var charCode = (event.which) ? event.which : event.keyCode
+        if (charCode > 0)
+            return true;
+    }
+</script>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="head_logo" >
+            <asp:Image ID="Image1" runat="server" ImageUrl="~/image/logo.png" Width="100%" />
+        </div>
+        <div id="head_user">
+            &nbsp;<asp:Label ID="lblcustomer" runat="server"></asp:Label>
+        </div>
+        
+        <div id="head_control_pannel">
+            <table sty
+                >
+                <tr>
+                    <td>
+                        <asp:Image ID="Image2" runat="server" ImageUrl="~/image/home.png" style="margin-top: 0px" Width="50%" />
+                    </td>
+                    <td>
+                        <asp:Image ID="Image8" runat="server" ImageUrl="~/image/profile1.png" Width="50%" />
+                    </td>
+                    <td>
+                        <asp:Image ID="Image9" runat="server" ImageUrl="~/image/product2.png" Width="50%" />
+                    </td>
+                    <td>
+                        <asp:Image ID="Image10" runat="server" ImageUrl="~/image/order.png" Width="50%" />
+                    </td>
+                    <td>
+                        <asp:Image ID="Image11" runat="server" ImageUrl="~/image/basket.png" Width="50%" />
+                    </td>
+                    <td>
+                        <asp:Image ID="Image12" runat="server" ImageUrl="~/image/logout.png" Width="50%" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/customer/index.aspx">Home</asp:HyperLink>
+                    </td>
+                    <td>
+                        <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/customer/Profile.aspx">profile</asp:HyperLink>
+                    </td>
+                    <td>
+                        <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/customer/Product.aspx">Product</asp:HyperLink>
+                    </td>
+                    <td>
+                        <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/customer/Order.aspx">Order</asp:HyperLink>
+                    </td>
+                    <td>
+                        <asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/customer/Bscket.aspx">Bscket</asp:HyperLink>
+                    </td>
+                    <td>
+                        <asp:Button ID="btnLogout" runat="server" CssClass="bntLogout" Text="Logout" OnClick="btnLogout_Click" />
+                    </td>
+                </tr>
+            </table>
+       </div>
+
+             <div id="body">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+        </div>
+        <div id="fotter">
+            <asp:Label ID="lbltime" runat="server" style="text-align: center"></asp:Label>
+        </div>
+
+    
+    </form>
+</body>
+</html>

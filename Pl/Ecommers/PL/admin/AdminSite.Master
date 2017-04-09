@@ -1,0 +1,86 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminSite.master.cs" Inherits="Ecommers.PL.admin.AdminSite" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="../css/StyleSheet1.css" rel="stylesheet" />
+  
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            text-align:center;
+        }
+    </style>
+  
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="head_logo" >
+            <asp:Image ID="Image1" runat="server" ImageUrl="~/image/logo.png" Width="100%" />
+        </div>
+        <div id="head_user">
+            &nbsp;<asp:Label ID="lblAdmin" runat="server"></asp:Label>
+        </div>
+        
+        <div id="head_control_pannel">
+            
+            <table class="auto-style1">
+                <tr>
+                    <td>
+                        <asp:Image ID="Image2" runat="server" ImageUrl="~/image/home.png" Width="30%" />
+                    </td>
+                    <td>
+                        <asp:Image ID="Image6" runat="server" ImageUrl="~/image/profile1.png" Width="30%" />
+                    </td>
+                    <td>
+                        <asp:Image ID="Image8" runat="server" ImageUrl="~/image/settings.png" Width="30%" />
+                    </td>
+                    <td>
+                        <asp:Image ID="Image9" runat="server" ImageUrl="~/image/user.png" Width="40%" />
+                    </td>
+                    <td>
+                        <asp:Image ID="Image7" runat="server" ImageUrl="~/image/logout.png" Width="30%" />
+                    </td>
+                    <tb>
+
+                    </tb>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/admin/index.aspx">Home</asp:HyperLink>
+                    </td>
+                    <td>
+                        <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/admin/Profile.aspx">Profile</asp:HyperLink>
+                    </td>
+                    <td>
+                        <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/admin/Setting.aspx">Setting</asp:HyperLink>
+                    </td>
+                   <td>
+                        <asp:HyperLink ID="HyperLink4" runat="server">User</asp:HyperLink>
+                    </td>
+
+                    <td>
+
+                        <asp:Button ID="bntlogout2" runat="server" CssClass="bntLogout" Text="logout" OnClick="bntlogout2_Click" />
+
+                    </td>
+                </tr>
+            </table>
+            
+       </div>
+             <div id="body">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+        </div>
+        <div id="fotter">
+            <asp:Label ID="lbltime" runat="server" style="text-align: center"></asp:Label>
+        </div>
+
+    
+    </form>
+</body>
+</html>

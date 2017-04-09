@@ -1,0 +1,96 @@
+﻿#head_logo {
+    background-color:#f4f4f4;
+    margin:auto;
+    width:80%;
+    border:solid 1px #000000;
+
+}
+
+#head_user {
+     background-color:#fff;
+    margin:auto;
+    width:80%;
+    border:solid 1px #000000;
+
+}
+
+#head_control_pannel {
+     background-color:#f4f4f4;
+    margin:auto;
+    width:80%;
+    border:solid 1px #000000;
+
+}
+
+#body {
+     background-color:#fff;
+    margin:auto;
+    width:80%;
+    border:solid 1px #000000;
+    min-height:300px;
+}
+
+#fotter {
+     background-color:#f4f4f4;
+    margin:auto;
+    width:80%;
+    border:solid 1px #000000;
+    text-align: center;
+}
+
+a
+ {
+    text-decoration:none;
+    color:#00f;
+}
+
+a:link
+ {
+    text-decoration:none;
+    
+}
+
+a:hover
+ {
+    text-decoration:none;
+    color:red;
+    
+}
+
+a:active
+ {
+    text-decoration:none;
+    color:#00f;
+    
+}
+
+a:visited
+ {
+    text-decoration:none;
+       color:#00f;    
+}
+
+.button {
+    color:blue;
+    background-color:red;
+}
+
+.text 
+{
+ background-color:burlywood;
+ font-family:Candara;
+ border-radius:3px;
+
+}
+
+.label 
+{
+    color:darkorange;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size:large;
+}
+
+.bntLogout {
+border:none;
+font-size:large;
+}
